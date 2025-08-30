@@ -22,6 +22,7 @@ I’m a highly motivated and detail-oriented Frontend Developer with a strong fo
 💻 Love coding, problem-solving, and creating products that make an impact.
 
 🛠️ Skills & Tools
+
 🧠 Languages
 
 JavaScript (ES6+), TypeScript, SQL, C#
