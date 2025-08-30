@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasara Hasini</h1>
-<h3 align="center">Full Stack Developer  in Sri Lanka</h3>
+<h3 align="center">Frontend Developer  in Sri Lanka</h3>
 
 <p align="center">
   <a href="mailto:yasarahasini61@gmail.com"><img src="https://img.shields.io/badge/email-yasarahasini61@gmail.com-red?style=flat-square&logo=gmail" /></a>
@@ -11,33 +11,36 @@
 
 ### 👩‍💻 About Me
 
-I’m a highly motivated and detail-oriented Full Stack Developer with a strong foundation in both frontend and backend development. I enjoy building robust, responsive, and user-friendly web applications that solve real-world problems.
+I’m a highly motivated and detail-oriented Frontend Developer with a strong focus on building modern, responsive, and user-friendly web applications.
 
-- 🌱 Currently learning: Advanced React patterns, .NET Core APIs, SQL optimization
-- 🛠 Tech Stack Focus: **React**, **SQL Server**
-- 🎯 Goal: To contribute to impactful software projects while continuously learning and improving
+⚡ Specialized in Next.js for fast, scalable, and SEO-friendly applications
 
----
+🎨 Passionate about UI/UX, turning ideas into pixel-perfect designs
 
-### 🛠️ Skills & Tools
+🚀 Always learning and exploring new frontend technologies to improve performance & accessibility
 
-#### 🧠 Languages
-- JavaScript, C#, SQL, Java, PHP
+💻 Love coding, problem-solving, and creating products that make an impact.
 
-#### 💻 Frontend
-- React.js, HTML5, CSS3, Bootstrap, Material UI
+🛠️ Skills & Tools
+🧠 Languages
 
-#### 🖥️ Backend
--  RESTful APIs
+JavaScript (ES6+), TypeScript, SQL, C#
 
-#### 🗃️ Databases
-- SQL Server, MySQL,Mongodb
+💻 Frontend
 
-#### ⚙️ Tools & Platforms
-- Visual Studio, Visual Studio Code, Git & GitHub, Postman, Azure, Figma
+Next.js, React.js, HTML5, CSS3, Tailwind CSS, Material UI, Bootstrap
 
----
+🖥️ Backend
 
+RESTful APIs, Node.js, Express.js
+
+🗃️ Databases
+
+MongoDB, MySQL, PostgreSQL, SQL Server, MySQL Workbench
+
+⚙️ Tools & Platforms
+
+Visual Studio Code, Visual Studio, Git & GitHub, Postman, Vercel, Azure, Figma, Netlify, Converter Tools
 ### 📊 GitHub Stats
 
 <p align="center">
