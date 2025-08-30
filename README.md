@@ -42,7 +42,7 @@ MongoDB, MySQL, PostgreSQL, SQL Server, MySQL Workbench
 ⚙️ Tools & Platforms
 
 Visual Studio Code, Visual Studio, Git & GitHub, Postman, Vercel, Azure, Figma, Netlify, Converter Tools
-### 📊 GitHub Stats
+ 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yasarahasini&show_icons=true&theme=default" alt="GitHub Stats" />
@@ -53,7 +53,7 @@ Visual Studio Code, Visual Studio, Git & GitHub, Postman, Vercel, Azure, Figma, 
 </p>
 
 
-### 📬 Contact
+📬 Contact
 
 - 📧 Email: **yasarahasini61@gmail.com**
 - 💼 LinkedIn: [yasara hasini](https://www.linkedin.com/in/yasara-hasini-2375b42b9/)
