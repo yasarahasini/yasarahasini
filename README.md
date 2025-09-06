@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasara Hasini</h1>
-<h3 align="center">Frontend Developer  in Sri Lanka</h3>
+<h3 align="center">Full Stack Developer  in Sri Lanka</h3>
 
 <p align="center">
   <a href="mailto:yasarahasini61@gmail.com"><img src="https://img.shields.io/badge/email-yasarahasini61@gmail.com-red?style=flat-square&logo=gmail" /></a>
