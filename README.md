@@ -33,7 +33,7 @@ Next.js, React.js, HTML5, CSS3, Tailwind CSS, Material UI, Bootstrap
 
 🖥️ Backend
 
-RESTful APIs, Node.js, Express.js
+RESTful APIs, Node.js, Express.js , Nest.js
 
 🗃️ Databases
 
