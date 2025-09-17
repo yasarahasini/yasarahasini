@@ -44,7 +44,7 @@ MongoDB, MySQL, PostgreSQL, SQL Server, MySQL Workbench
 Visual Studio Code, Visual Studio, Git & GitHub, Postman, Vercel, Azure, Figma, Netlify, Converter Tools
 ## 📊 GitHub Stats
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=yasarahasini&show_icons=true&theme=default" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasarahasini&theme=default" alt="GitHub Streak" />
