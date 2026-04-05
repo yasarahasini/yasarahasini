@@ -13,16 +13,11 @@
 
 I am a detail-oriented **Full Stack Developer** dedicated to building high-performance, visually stunning web applications. I bridge the gap between robust backend logic and immersive frontend experiences.
 
-
-📱 Frontend & Mobile: Architecting type-safe, universal interfaces with Next.js 15, React Native, and TypeScript.
-
-⚙️ Backend Engineering: Building high-performance, concurrent systems with Go (Golang) and NestJS.
-
-💾 Data Systems: Specialized in CouchDB (distributed sync), PostgreSQL (relational), and MongoDB (document).
-
-🚀 Performance & SEO: Delivering lightning-fast, production-grade applications with modern rendering patterns.
-
-✨ 3D & Animation: Crafting immersive experiences using Three.js and silky-smooth motion with GSAP.
+* 📱 **Frontend & Mobile:** Architecting type-safe, universal interfaces with **Next.js 15**, **React Native**, and **TypeScript**.
+* ⚙️ **Backend Engineering:** Building high-performance, concurrent systems with **Go (Golang)** and **NestJS**.
+* 💾 **Data Systems:** Specialized in **CouchDB** (distributed sync), **PostgreSQL** (relational), and **MongoDB** (document).
+* 🚀 **Performance & SEO:** Delivering lightning-fast, production-grade applications with modern rendering patterns.
+* ✨ **3D & Animation:** Crafting immersive experiences using **Three.js** and silky-smooth motion with **GSAP**.
 
 ---
 
@@ -44,7 +39,17 @@ I am a detail-oriented **Full Stack Developer** dedicated to building high-perfo
 
 ---
 
-🎨 Specialized ExpertiseTechFocus Area<img src="https://raw.githubusercontent.com/pmndrs/drei-assets/master/logo.png" width="22" /> Three.jsWebGL, 3D Rendering, & Interactive Shaders<img src="https://raw.githubusercontent.com/greensock/GSAP/master/src/images/gsap-logo.svg" width="22" /> GSAPAdvanced Timeline Animations & Scroll-based Motion<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="22" /> Next.js & TSType-safe SSR/ISR Architectures & SEO Optimization<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="22" /> React NativeCross-platform Mobile Development & Native Modules<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="22" /> Golang & NestHigh-concurrency Microservices & Scalable Backends<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/CouchDB-Logo.svg" width="22" /> CouchDBDistributed NoSQL & Multi-master Sync<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_classic.svg" width="22" /> SQL & NoSQLRelational Modeling (Postgres) & Document Stores (Mongo)
+### 🎨 Specialized Expertise
+
+| Tech | Focus Area |
+| :--- | :--- |
+| <img src="https://raw.githubusercontent.com/pmndrs/drei-assets/master/logo.png" width="22" /> **Three.js** | WebGL, 3D Rendering, & Interactive Shaders |
+| <img src="https://raw.githubusercontent.com/greensock/GSAP/master/src/images/gsap-logo.svg" width="22" /> **GSAP** | Advanced Timeline Animations & Scroll-based Motion |
+| <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="22" /> **Next.js & TS** | Type-safe SSR/ISR Architectures & SEO Optimization |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="22" /> **React Native** | Cross-platform Mobile Development & Native Modules |
+| <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="22" /> **Golang & Nest** | High-concurrency Microservices & Scalable Backends |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/CouchDB-Logo.svg" width="22" /> **CouchDB** | Distributed NoSQL & Multi-master Sync |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_classic.svg" width="22" /> **SQL & NoSQL** | Relational Modeling (Postgres) & Document Stores (Mongo) |
 
 ---
 
