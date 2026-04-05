@@ -44,13 +44,7 @@ I am a detail-oriented **Full Stack Developer** dedicated to building high-perfo
 
 ---
 
-### 🎨 Specialized Expertise
-| Tech | Focus Area | 
-| :--- | :--- |
-| <img src="https://raw.githubusercontent.com/pmndrs/drei-assets/master/logo.png" width="22" /> **Three.js** | WebGL, 3D Rendering, & Interactive Shaders |
-| <img src="https://raw.githubusercontent.com/greensock/GSAP/master/src/images/gsap-logo.svg" width="22" /> **GSAP** | Advanced Timeline Animations & Scroll-based Motion |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/CouchDB-Logo.svg" width="22" /> **CouchDB** | Distributed NoSQL & Multi-master Replication |
-| <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="22" /> **Golang** | High-concurrency Microservices & CLI Tooling |
+🎨 Specialized ExpertiseTechFocus Area<img src="https://raw.githubusercontent.com/pmndrs/drei-assets/master/logo.png" width="22" /> Three.jsWebGL, 3D Rendering, & Interactive Shaders<img src="https://raw.githubusercontent.com/greensock/GSAP/master/src/images/gsap-logo.svg" width="22" /> GSAPAdvanced Timeline Animations & Scroll-based Motion<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="22" /> Next.js & TSType-safe SSR/ISR Architectures & SEO Optimization<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="22" /> React NativeCross-platform Mobile Development & Native Modules<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="22" /> Golang & NestHigh-concurrency Microservices & Scalable Backends<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/CouchDB-Logo.svg" width="22" /> CouchDBDistributed NoSQL & Multi-master Sync<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_classic.svg" width="22" /> SQL & NoSQLRelational Modeling (Postgres) & Document Stores (Mongo)
 
 ---
 
