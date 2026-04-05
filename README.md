@@ -13,10 +13,16 @@
 
 I am a detail-oriented **Full Stack Developer** dedicated to building high-performance, visually stunning web applications. I bridge the gap between robust backend logic and immersive frontend experiences.
 
-* ✨ **3D & Animation:** Crafting immersive experiences using **Three.js** and silky-smooth motion with **GSAP**.
-* ⚙️ **Backend Engineering:** Building scalable, concurrent systems with **Go (Golang)** and **NestJS**.
-* 💾 **Data Systems:** Specialized in **CouchDB** for distributed sync and relational databases like **PostgreSQL**.
-* 🚀 **Performance:** Developing modern, SEO-friendly architectures via **Next.js 15**.
+
+📱 Frontend & Mobile: Architecting type-safe, universal interfaces with Next.js 15, React Native, and TypeScript.
+
+⚙️ Backend Engineering: Building high-performance, concurrent systems with Go (Golang) and NestJS.
+
+💾 Data Systems: Specialized in CouchDB (distributed sync), PostgreSQL (relational), and MongoDB (document).
+
+🚀 Performance & SEO: Delivering lightning-fast, production-grade applications with modern rendering patterns.
+
+✨ 3D & Animation: Crafting immersive experiences using Three.js and silky-smooth motion with GSAP.
 
 ---
 
