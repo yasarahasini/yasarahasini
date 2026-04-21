@@ -1,28 +1,42 @@
 <h1 align="center">Hi 👋, I'm Yasara Hasini</h1>
-<h3 align="center">Full Stack Developer | Creative Technologist | Sri Lanka</h3>
+<h3 align="center">Aspiring Software Engineer | Full Stack Developer | Creative Technologist | Sri Lanka</h3>
 
 <p align="center">
-  <a href="mailto:yasarahasini61@gmail.com"><img src="https://img.shields.io/badge/Email-yasarahasini61@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yasara-hasini-2375b42b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Yasara%20Hasini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/yasarahasini"><img src="https://img.shields.io/github/followers/yasarahasini?label=Follow&style=for-the-badge&logo=github" /></a>
+  <a href="mailto:yasarahasini61@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yasarahasini61@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yasara-hasini-2375b42b9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Yasara%20Hasini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/yasarahasini">
+    <img src="https://img.shields.io/github/followers/yasarahasini?label=Follow&style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-I am a detail-oriented **Full Stack Developer** dedicated to building high-performance, visually stunning web applications. I bridge the gap between robust backend logic and immersive frontend experiences.
+I am an **Aspiring Software Engineer** and detail-oriented **Full Stack Developer** passionate about building high-performance, scalable, and visually engaging web applications. I enjoy transforming ideas into real-world digital products by bridging clean backend architecture with intuitive frontend experiences.
 
+---
 
-📱 Frontend & Mobile: Architecting type-safe, universal interfaces with Next.js 15, React Native, and TypeScript.
+### 🚀 Tech Focus Areas
 
-⚙️ Backend Engineering: Building high-performance, concurrent systems with Go (Golang) and NestJS.
+📱 **Frontend & Mobile Development**  
+Building modern, type-safe interfaces using **Next.js 15, React Native, and TypeScript**
 
-💾 Data Systems: Specialized in CouchDB (distributed sync), PostgreSQL (relational), and MongoDB (document).
+⚙️ **Backend Engineering**  
+Developing scalable and high-performance systems with **Go (Golang) and NestJS**
 
-🚀 Performance & SEO: Delivering lightning-fast, production-grade applications with modern rendering patterns.
+💾 **Databases & Data Systems**  
+Working with **PostgreSQL, MongoDB, and CouchDB (distributed synchronization systems)**
 
-✨ 3D & Animation: Crafting immersive experiences using Three.js and silky-smooth motion with GSAP.
+🚀 **Performance & SEO Optimization**  
+Creating fast, production-ready applications using modern rendering and optimization techniques
+
+✨ **3D & Animations**  
+Designing immersive user experiences with **Three.js and GSAP animations**
 
 ---
 
