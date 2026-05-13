@@ -67,6 +67,12 @@ Designing immersive user experiences with **Three.js and GSAP animations**
 | <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="22" /> **Golang** | High-concurrency Microservices & CLI Tooling |
 
 ---
+### 🔒 Private Projects
+
+> ⚠️ Some advanced and production-level projects are maintained in private repositories due to ongoing development and confidentiality requirements.  
+> Live demos, architecture walkthroughs, and temporary repository access can be provided during interviews or technical evaluations.
+
+---
 
 ### 📊 GitHub Stats
 
